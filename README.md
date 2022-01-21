@@ -1,7 +1,5 @@
 # Predicting-the-out-of-state-total-cost-for-US-public-and-private-universities-and-colleges
 
-# Executive Summary
-
 ## Introduction/ Background of Study
 The US is characterized to be one of the intellectual factories of the 21st century as it has more than 5,300 colleges and universities. As the cost of university education in the USA increases every year, it is important for students to understand what this implies when deciding on their "dream school." Although various factors should be considered when choosing a university, such as academic reputation and distance from home, "cost" should be strongly evaluated as it is dependent on the state the student lives in. There is often a significant price difference when comparing private and public universities as well as students that are residents of the state vs. those who live in a different state. The present project aims to provide prospective university students with data that will enable them to evaluate the cost of university attendance by predicting the out of state total which many times can be financed or defrayed depending on the state the student comes from. Nonetheless, first it is important to understand the context in which we will be analyzing the research question.
 
