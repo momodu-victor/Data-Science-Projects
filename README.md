@@ -97,15 +97,7 @@ Also, to build a robust predictive model, also used some other dataset in this p
 
 **tuition_income data**: This gives information on the total price, net cost, income level of all enrolled students for each university in the US.
 
-Also, the **Human development index (HDI)** for each US state was used in the project.
-
-**Sources**:
-
-https://elearning.jacobs-university.de/pluginfile.php/52758/mod_assign/introattachment/0/universities.csv?forcedownload=1
-
-https://elearning.jacobs-university.de/pluginfile.php/52758/mod_assign/introattachment/0/tuition_income.csv?forcedownload=1
-
-https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_Human_Development_Index
+Also, the **Human development index (HDI)** for each US state was used in the project. https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_Human_Development_Index
 
 ### c. Data Cleaning:
 
